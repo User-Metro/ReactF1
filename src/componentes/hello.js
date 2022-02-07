@@ -6,7 +6,7 @@ export default class Hello extends Component {
       <div className="container-fluid">
         <div className="box">
           <div className="item1">
-            <p>F1 tm App</p>
+            <p>F1™ App</p>
           </div>
 
           <div className="item2"></div>
